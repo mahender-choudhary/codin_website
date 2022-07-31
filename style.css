@@ -3,6 +3,20 @@
     padding: 0;
     background-color: aliceblue;
 }
+.top-head{
+    background-color: rgb(36, 89, 237);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: verdana;
+    height: 30px;
+}
+
+.top-head span{
+    color: rgb(123, 16, 22);
+    background-color: rgb(36, 89, 237);
+}
 
 nav{
     display: flex;
@@ -45,4 +59,8 @@ nav{
 
 .login-btn{
     border: none;
+}
+
+.login-btn a:hover{
+    background-color: rgb(32, 67, 191);
 }
