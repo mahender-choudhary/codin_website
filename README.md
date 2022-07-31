@@ -1,1 +1,1 @@
-# codin_website
+# codind_website
