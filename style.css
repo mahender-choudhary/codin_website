@@ -97,6 +97,16 @@
   font-size: 1.3em;
   font-weight: bold;
 }
+.d-task button{
+  border: none;
+  background-color: rgb(41, 78, 78);
+  color: white;
+  margin-top: 7em;
+  padding: 1em;
+  font-weight: bold;
+  font-family: verdana;
+  cursor: pointer;
+}
 
 /* html tutorial css  */
 
