@@ -13,6 +13,11 @@
   height: 60px;
   border-bottom: 4px solid black;
 }
+.nav-bar h4{
+  font-size: 25px;
+  color: rgb(184, 32, 198);
+  font-weight: 900;
+}
 
 .nav-ul {
   display: flex;
